@@ -20,3 +20,7 @@ This repository contains the implementation of a binary image classifier designe
 2. **Train the Model:**
    ```bash
    python train.py
+
+3. **Run the Inference:**
+   ```bash
+   python inference.py
